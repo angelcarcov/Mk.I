@@ -25,4 +25,4 @@ git add
 git commit
 ````
 
-Emojis :smile: :+1: :happy:
+Emojis :smile: :+1: :blush:
