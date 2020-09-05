@@ -2,9 +2,15 @@
 # HEADING 1
 ## HEADING 2
 ### HEADING 3
-__bold__ **bold** _italic_ *italic*
+__bold__ **bold** 
 
-~~mistake~~ ***bold and italic*** **bold with _italic_**
+_italic_ *italic*
+
+~~mistake~~
+
+***bold and italic***
+
+**bold with _italic_**
 
 Quotes:
 
@@ -18,7 +24,4 @@ git status
 git add
 git commit
 
-Emojis
-
-:EMOJICODE:
-:+1:
+Emojis :smile:
