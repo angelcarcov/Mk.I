@@ -26,3 +26,8 @@ git commit
 ````
 
 Emojis :smile::+1::blush::poop:
+
+| Tabla | Algo Random |
+| --- | --- |
+| ```git```| No **significa** nada jajaj |
+| que habido | nada por aqui tampoco |
