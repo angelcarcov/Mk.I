@@ -23,6 +23,7 @@ Use `ping` para ver tu ping
 git status
 git add
 git commit
+
 ````
 
 Emojis :smile::+1::blush::poop:
